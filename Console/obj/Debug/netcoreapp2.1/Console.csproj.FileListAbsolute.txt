@@ -1,0 +1,12 @@
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\Console\obj\Debug\netcoreapp2.1\Console.csproj.CoreCompileInputs.cache
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\Console\obj\Debug\netcoreapp2.1\Console.AssemblyInfoInputs.cache
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\Console\obj\Debug\netcoreapp2.1\Console.AssemblyInfo.cs
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\Console\bin\Debug\netcoreapp2.1\Console.deps.json
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\Console\bin\Debug\netcoreapp2.1\Console.runtimeconfig.json
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\Console\bin\Debug\netcoreapp2.1\Console.runtimeconfig.dev.json
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\Console\bin\Debug\netcoreapp2.1\Console.dll
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\Console\bin\Debug\netcoreapp2.1\Console.pdb
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\Console\obj\Debug\netcoreapp2.1\Console.dll
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\Console\obj\Debug\netcoreapp2.1\Console.pdb
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\Console\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\Console\obj\Debug\netcoreapp2.1\Console.csprojAssemblyReference.cache

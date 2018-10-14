@@ -1,0 +1,14 @@
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\MyHelloWorld\bin\Debug\netcoreapp2.1\MyHelloWorld.deps.json
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\MyHelloWorld\bin\Debug\netcoreapp2.1\MyHelloWorld.runtimeconfig.json
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\MyHelloWorld\bin\Debug\netcoreapp2.1\MyHelloWorld.runtimeconfig.dev.json
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\MyHelloWorld\bin\Debug\netcoreapp2.1\MyHelloWorld.dll
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\MyHelloWorld\bin\Debug\netcoreapp2.1\MyHelloWorld.pdb
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\MyHelloWorld\obj\Debug\netcoreapp2.1\MyHelloWorld.csprojAssemblyReference.cache
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\MyHelloWorld\obj\Debug\netcoreapp2.1\MyHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\MyHelloWorld\obj\Debug\netcoreapp2.1\MyHelloWorld.RazorAssemblyInfo.cache
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\MyHelloWorld\obj\Debug\netcoreapp2.1\MyHelloWorld.RazorAssemblyInfo.cs
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\MyHelloWorld\obj\Debug\netcoreapp2.1\MyHelloWorld.AssemblyInfoInputs.cache
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\MyHelloWorld\obj\Debug\netcoreapp2.1\MyHelloWorld.AssemblyInfo.cs
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\MyHelloWorld\obj\Debug\netcoreapp2.1\MyHelloWorld.RazorTargetAssemblyInfo.cache
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\MyHelloWorld\obj\Debug\netcoreapp2.1\MyHelloWorld.dll
+C:\Users\svoruga\Desktop\Personal\MyGit\MyHelloWorld\MyHelloWorld\obj\Debug\netcoreapp2.1\MyHelloWorld.pdb
